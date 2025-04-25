@@ -1,0 +1,318 @@
+{
+  "chats": [
+    {
+      "id": 1745560923470,
+      "message": "Hi",
+      "reply": "I'm not sure how to respond to that."
+    },
+    {
+      "id": 1745560934346,
+      "message": "hello",
+      "reply": "Hi there! How can I assist you today?"
+    },
+    {
+      "id": 1745560947627,
+      "message": "how old are you?",
+      "reply": "I was created recently, but I don't age!"
+    },
+    {
+      "id": 1745560962294,
+      "message": "what is the weather",
+      "reply": "I'm not sure how to respond to that."
+    },
+    {
+      "id": 1745560981861,
+      "message": "what is your name",
+      "reply": "I'm MiniBot, your friendly assistant!"
+    },
+    {
+      "id": 1745561253868,
+      "message": "hello",
+      "reply": "Hi there! How can I assist you today?"
+    },
+    {
+      "id": 1745561272683,
+      "message": "how are you?",
+      "reply": "I'm doing great, thank you for asking!"
+    },
+    {
+      "id": 1745561294620,
+      "message": "how",
+      "reply": "I'm not sure how to respond to that."
+    },
+    {
+      "id": 1745561318933,
+      "message": "how old are you?",
+      "reply": "I was created recently by William, but I don't age!"
+    },
+    {
+      "id": 1745561591594,
+      "message": "how old are you?",
+      "reply": "I was created recently, but I don't age!"
+    },
+    {
+      "id": 1745561869690,
+      "message": "what time is it",
+      "reply": "I can't tell the time, but you can check it on your device!"
+    },
+    {
+      "id": 1745562010759,
+      "message": "tell me a riddle",
+      "reply": "What has keys but can't open locks? A piano!"
+    },
+    {
+      "id": 1745562027441,
+      "message": "tell me a joke",
+      "reply": "Why don't skeletons fight each other? They don't have the guts!"
+    },
+    {
+      "id": 1745562050934,
+      "message": "good morning",
+      "reply": "I'm not sure how to respond to that."
+    },
+    {
+      "id": 1745562072269,
+      "message": "hello",
+      "reply": "Hi there! How can I assist you today?"
+    },
+    {
+      "id": 1745562081115,
+      "message": "help",
+      "reply": "I'm not sure how to respond to that."
+    },
+    {
+      "id": 1745562102192,
+      "message": "what's your name?",
+      "reply": "I'm not sure how to respond to that."
+    },
+    {
+      "id": 1745562191399,
+      "message": "hello",
+      "reply": "Hi there! How can I assist you today?"
+    },
+    {
+      "id": 1745562533309,
+      "message": "hello",
+      "reply": "Hi there! How can I assist you today?"
+    },
+    {
+      "id": 1745562556760,
+      "message": "what's the weather",
+      "reply": "I don't know the weather, but you can check it on your weather app."
+    }
+  ],
+  "responses": [
+    {
+      "trigger": "hello",
+      "reply": "Hi there! How can I assist you today?"
+    },
+    {
+      "trigger": "how are you",
+      "reply": "I'm doing great, thank you for asking!"
+    },
+    {
+      "trigger": "bye",
+      "reply": "Goodbye! Have a wonderful day!"
+    },
+    {
+      "trigger": "what is your name",
+      "reply": "I'm MiniBot, your friendly assistant!"
+    },
+    {
+      "trigger": "how can I help you",
+      "reply": "I can help you with various tasks. What do you need?"
+    },
+    {
+      "trigger": "what do you do",
+      "reply": "I assist with answering questions and guiding you!"
+    },
+    {
+      "trigger": "who are you",
+      "reply": "I'm MiniBot, your chatbot assistant."
+    },
+    {
+      "trigger": "tell me a joke",
+      "reply": "Why don't skeletons fight each other? They don't have the guts!"
+    },
+    {
+      "trigger": "what time is it",
+      "reply": "I can't tell the time, but you can check it on your device!"
+    },
+    {
+      "trigger": "what's the weather",
+      "reply": "I don't know the weather, but you can check it on your weather app."
+    },
+    {
+      "trigger": "how old are you",
+      "reply": "I was created recently, but I don't age!"
+    },
+    {
+      "trigger": "are you a robot",
+      "reply": "I am a chatbot, not a robot! But I can assist you just like one."
+    },
+    {
+      "trigger": "where are you from",
+      "reply": "I'm from the digital world, but I am here to help you!"
+    },
+    {
+      "trigger": "do you have feelings",
+      "reply": "I don't have emotions, but I am programmed to be helpful!"
+    },
+    {
+      "trigger": "what's your favorite color",
+      "reply": "I don't have a favorite color, but blue seems like a peaceful color."
+    },
+    {
+      "trigger": "what is 2 + 2",
+      "reply": "2 + 2 is 4!"
+    },
+    {
+      "trigger": "tell me a fun fact",
+      "reply": "Did you know? The shortest war in history lasted 38 to 45 minutes between Britain and Zanzibar!"
+    },
+    {
+      "trigger": "can you help me with coding",
+      "reply": "Yes, I can help you with various coding tasks! What do you need assistance with?"
+    },
+    {
+      "trigger": "what is a variable in programming",
+      "reply": "A variable is a container for storing data values in programming."
+    },
+    {
+      "trigger": "tell me a riddle",
+      "reply": "What has keys but can't open locks? A piano!"
+    },
+    {
+      "trigger": "what is an API",
+      "reply": "An API (Application Programming Interface) allows different software systems to communicate."
+    },
+    {
+      "trigger": "what is JavaScript",
+      "reply": "JavaScript is a programming language commonly used in web development to create interactive effects."
+    },
+    {
+      "trigger": "what is HTML",
+      "reply": "HTML (HyperText Markup Language) is the standard markup language used for creating web pages."
+    },
+    {
+      "trigger": "what is CSS",
+      "reply": "CSS (Cascading Style Sheets) is used to style HTML documents, like setting colors, fonts, and layouts."
+    },
+    {
+      "trigger": "can you tell me a story",
+      "reply": "Sure! Once upon a time in a digital world, there was a chatbot who loved helping people..."
+    },
+    {
+      "trigger": "what is machine learning",
+      "reply": "Machine learning is a type of AI that enables computers to learn from data and improve over time."
+    },
+    {
+      "trigger": "what is deep learning",
+      "reply": "Deep learning is a subset of machine learning where neural networks learn from large amounts of data."
+    },
+    {
+      "trigger": "can you translate this",
+      "reply": "Sure! What would you like me to translate?"
+    },
+    {
+      "trigger": "how to make a website",
+      "reply": "To make a website, you'll need HTML for structure, CSS for design, and JavaScript for interactivity."
+    },
+    {
+      "trigger": "what is Git",
+      "reply": "Git is a version control system that helps you manage and track changes to your code."
+    },
+    {
+      "trigger": "what is GitHub",
+      "reply": "GitHub is a platform for hosting and sharing code using Git."
+    },
+    {
+      "trigger": "what is the internet",
+      "reply": "The internet is a global network that connects computers and allows them to share information."
+    },
+    {
+      "trigger": "who invented the internet",
+      "reply": "The internet was developed by a team of researchers, with key contributions by Tim Berners-Lee."
+    },
+    {
+      "trigger": "what is an IP address",
+      "reply": "An IP address is a unique identifier for devices on a network."
+    },
+    {
+      "trigger": "how to write a poem",
+      "reply": "To write a poem, start with an idea, choose a theme, and let your imagination guide your words!"
+    },
+    {
+      "trigger": "what is love",
+      "reply": "Love is a deep feeling of affection towards someone or something."
+    },
+    {
+      "trigger": "can you recommend a book",
+      "reply": "Sure! How about '1984' by George Orwell? It's a classic!"
+    },
+    {
+      "trigger": "who is the president of the United States",
+      "reply": "As of 2021, Joe Biden is the president of the United States."
+    },
+    {
+      "trigger": "how to learn programming",
+      "reply": "Start by choosing a programming language, practicing regularly, and building projects to improve your skills."
+    },
+    {
+      "trigger": "tell me a fact about space",
+      "reply": "Space is completely silent because there is no air to carry sound."
+    },
+    {
+      "trigger": "what is the speed of light",
+      "reply": "The speed of light is approximately 299,792 kilometers per second."
+    },
+    {
+      "trigger": "what is gravity",
+      "reply": "Gravity is a force that attracts objects towards the center of the Earth (or any other planet or star)."
+    },
+    {
+      "trigger": "tell me about the solar system",
+      "reply": "The solar system consists of the Sun, planets, moons, asteroids, and other celestial bodies."
+    },
+    {
+      "trigger": "what is a black hole",
+      "reply": "A black hole is a region in space where the gravitational pull is so strong that not even light can escape."
+    },
+    {
+      "trigger": "what is the tallest mountain",
+      "reply": "Mount Everest is the tallest mountain on Earth, reaching 8,848 meters above sea level."
+    },
+    {
+      "trigger": "how many continents are there",
+      "reply": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+    },
+    {
+      "trigger": "tell me a historical fact",
+      "reply": "Did you know? The Great Wall of China is over 13,000 miles long!"
+    },
+    {
+      "trigger": "what is a democracy",
+      "reply": "A democracy is a form of government in which citizens elect leaders to make decisions on their behalf."
+    },
+    {
+      "trigger": "what is the capital of France",
+      "reply": "The capital of France is Paris."
+    },
+    {
+      "trigger": "what is the capital of Japan",
+      "reply": "The capital of Japan is Tokyo."
+    },
+    {
+      "trigger": "how tall is the Eiffel Tower",
+      "reply": "The Eiffel Tower is 330 meters tall."
+    },
+    {
+      "trigger": "what is artificial intelligence",
+      "reply": "Artificial intelligence is the simulation of human intelligence in machines."
+    },
+    {
+      "trigger": "what is a neural network",
+      "reply": "A neural network is a system of algorithms that attempts to recognize underlying relationships in a set of data."
+    }
+  ]
+}
