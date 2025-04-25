@@ -3,7 +3,6 @@ import cors from 'cors';
 import { readFile, writeFile } from 'fs/promises';
 
 const app = express();
-const PORT = 3001;
 
 app.use(cors());
 app.use(express.json());
@@ -56,7 +55,7 @@ app.post('/chat', async (req, res) => {
     res.status(500).json({ error: 'Internal server error' });
   }
 });
-
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);
 });
