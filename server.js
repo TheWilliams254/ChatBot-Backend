@@ -5,7 +5,10 @@ import { readFile, writeFile } from 'fs/promises';
 const app = express();
 const PORT = 3001;
 
-app.use(cors());
+app.use(cors({
+  origin: 'chat-bot-ten-livid.vercel.app'
+}));
+
 app.use(express.json());
 
 app.get('/', (req, res) => {
