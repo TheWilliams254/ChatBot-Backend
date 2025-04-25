@@ -3,7 +3,6 @@ import cors from 'cors';
 import { readFile, writeFile } from 'fs/promises';
 
 const app = express();
-import cors from 'cors';
 
 const allowedOrigins = ['https://chat-bot-ten-livid.vercel.app'];
 
