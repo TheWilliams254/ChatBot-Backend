@@ -12,6 +12,7 @@
     "express": "^5.1.0"
   },
   "scripts": {
-  "start": "node server.js"
-}
+  "dev": "bun run server.js", 
+  "start": "bun run server.js"
+  }
 }
