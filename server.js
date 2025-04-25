@@ -5,10 +5,7 @@ import { readFile, writeFile } from 'fs/promises';
 const app = express();
 const PORT = 3001;
 
-app.use(cors({
-  origin: 'chat-bot-ten-livid.vercel.app'
-}));
-
+app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
@@ -60,7 +57,6 @@ app.post('/chat', async (req, res) => {
   }
 });
 
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`Server is running on port ${PORT}`);
+app.listen(PORT, () => {
+  console.log(`Server is running at http://localhost:${PORT}`);
 });
-

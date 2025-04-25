@@ -1,104 +1,14 @@
 {
   "chats": [
     {
-      "id": 1745560923470,
-      "message": "Hi",
-      "reply": "I'm not sure how to respond to that."
-    },
-    {
-      "id": 1745560934346,
+      "id": 1745570765980,
       "message": "hello",
       "reply": "Hi there! How can I assist you today?"
     },
     {
-      "id": 1745560947627,
-      "message": "how old are you?",
-      "reply": "I was created recently, but I don't age!"
-    },
-    {
-      "id": 1745560962294,
-      "message": "what is the weather",
-      "reply": "I'm not sure how to respond to that."
-    },
-    {
-      "id": 1745560981861,
-      "message": "what is your name",
-      "reply": "I'm MiniBot, your friendly assistant!"
-    },
-    {
-      "id": 1745561253868,
-      "message": "hello",
-      "reply": "Hi there! How can I assist you today?"
-    },
-    {
-      "id": 1745561272683,
+      "id": 1745570794977,
       "message": "how are you?",
       "reply": "I'm doing great, thank you for asking!"
-    },
-    {
-      "id": 1745561294620,
-      "message": "how",
-      "reply": "I'm not sure how to respond to that."
-    },
-    {
-      "id": 1745561318933,
-      "message": "how old are you?",
-      "reply": "I was created recently by William, but I don't age!"
-    },
-    {
-      "id": 1745561591594,
-      "message": "how old are you?",
-      "reply": "I was created recently, but I don't age!"
-    },
-    {
-      "id": 1745561869690,
-      "message": "what time is it",
-      "reply": "I can't tell the time, but you can check it on your device!"
-    },
-    {
-      "id": 1745562010759,
-      "message": "tell me a riddle",
-      "reply": "What has keys but can't open locks? A piano!"
-    },
-    {
-      "id": 1745562027441,
-      "message": "tell me a joke",
-      "reply": "Why don't skeletons fight each other? They don't have the guts!"
-    },
-    {
-      "id": 1745562050934,
-      "message": "good morning",
-      "reply": "I'm not sure how to respond to that."
-    },
-    {
-      "id": 1745562072269,
-      "message": "hello",
-      "reply": "Hi there! How can I assist you today?"
-    },
-    {
-      "id": 1745562081115,
-      "message": "help",
-      "reply": "I'm not sure how to respond to that."
-    },
-    {
-      "id": 1745562102192,
-      "message": "what's your name?",
-      "reply": "I'm not sure how to respond to that."
-    },
-    {
-      "id": 1745562191399,
-      "message": "hello",
-      "reply": "Hi there! How can I assist you today?"
-    },
-    {
-      "id": 1745562533309,
-      "message": "hello",
-      "reply": "Hi there! How can I assist you today?"
-    },
-    {
-      "id": 1745562556760,
-      "message": "what's the weather",
-      "reply": "I don't know the weather, but you can check it on your weather app."
     }
   ],
   "responses": [
