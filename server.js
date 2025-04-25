@@ -3,8 +3,21 @@ import cors from 'cors';
 import { readFile, writeFile } from 'fs/promises';
 
 const app = express();
+import cors from 'cors';
 
-app.use(cors());
+const allowedOrigins = ['https://chat-bot-ten-livid.vercel.app'];
+
+app.use(cors({
+  origin: function (origin, callback) {
+    // Allow requests with no origin (like Postman, server-to-server)
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  }
+}));
+
 app.use(express.json());
 
 app.get('/', (req, res) => {

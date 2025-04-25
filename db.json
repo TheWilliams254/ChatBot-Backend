@@ -9,6 +9,11 @@
       "id": 1745574849598,
       "message": "what's the weather",
       "reply": "I don't know the weather, but you can check it on your weather app."
+    },
+    {
+      "id": 1745575731551,
+      "message": "hello",
+      "reply": "Hi there! How can I assist you today?"
     }
   ],
   "responses": [
