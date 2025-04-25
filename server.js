@@ -4,18 +4,19 @@ import { readFile, writeFile } from 'fs/promises';
 
 const app = express();
 
-const allowedOrigins = ['https://chat-bot-ten-livid.vercel.app'];
+const allowedOrigins = ['https://chat-bot-ten-livid.vercel.app']; // your Vercel frontend
 
-app.use(cors({
+const corsOptions = {
   origin: function (origin, callback) {
-    // Allow requests with no origin (like Postman, server-to-server)
     if (!origin || allowedOrigins.includes(origin)) {
       callback(null, true);
     } else {
       callback(new Error('Not allowed by CORS'));
     }
-  }
-}));
+  },
+};
+
+app.use(cors(corsOptions));
 
 app.use(express.json());
 
